@@ -51,14 +51,14 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey {},My name is test
+Hey {},My name is Ξ L I Λ N Λ
 I am an anime themed fast and safe group managing bot.
 Add me in your group.
 You can see the list of available commands by typing /help.
 """
 
 HELP_STRINGS = """
-[Test](https://telegra.ph/file/6727604944bd9ede9efdd.jpg) Is Here:
+[Ξ L I Λ N Λ](https://telegra.ph/file/6727604944bd9ede9efdd.jpg) Is Here:
 Here You Can See My List of available commands 
 I Will help you manage your group.
 ✪ /start: Starts me! You've probably already used this.
@@ -191,7 +191,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="🚀Add rythm to your group🏓",
+                            text="🚀Add Ξ L I Λ N Λ to your group🏓",
                             url="t.me/{}?startgroup=true".format(context.bot.username))
                     ],
                      [
@@ -209,7 +209,7 @@ def start(update: Update, context: CallbackContext):
                              url="https://t.me/"),
                          InlineKeyboardButton(
                              text="⌨REPO🖱",
-                             url="https://github.com/YashMorya/LightYagami")
+                             url="https://github.com/sum200/LightYagami")
                      ],[
                         InlineKeyboardButton(
                             text="❗❔Help And Commands❔",
