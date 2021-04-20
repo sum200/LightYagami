@@ -58,10 +58,9 @@ You can see the list of available commands by typing /help.
 """
 
 HELP_STRINGS = """
-[Light](https://telegra.ph/file/6727604944bd9ede9efdd.jpg) Is Here:
-Here You Can See My Power With These Power 
-I Will Manage Your Group
-And Provide Justice To Your Group
+[Ξ L I Λ N Λ](https://telegra.ph/file/6727604944bd9ede9efdd.jpg) Is Here:
+Here You Can See My List of available commands 
+I Will help you manage your group.
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /settings: 
