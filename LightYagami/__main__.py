@@ -192,12 +192,12 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="⚖️Add Kira to your group⚖️",
+                            text="🚀ADD ME🏓",
                             url="t.me/{}?startgroup=true".format(context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
-                             text="📢 Support Group",
+                             text="📢 UPDATES",
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text="🔔 Updates Of Light 🔔",
@@ -206,10 +206,10 @@ def start(update: Update, context: CallbackContext):
                     
                     [
                          InlineKeyboardButton(
-                             text="❤My God❤",
+                             text="🍁MADE BY🍁",
                              url="https://t.me/death_note_light_yagami"),
                          InlineKeyboardButton(
-                             text="⌨Repo🖱",
+                             text="⌨REPO🖱",
                              url="https://github.com/YashMorya/LightYagami")
                      ],[
                         InlineKeyboardButton(
