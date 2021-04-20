@@ -207,7 +207,7 @@ def start(update: Update, context: CallbackContext):
                     [
                          InlineKeyboardButton(
                              text="🍁MADE BY🍁",
-                             url="https://t.me/death_note_light_yagami"),
+                             url="https://t.me/Luminous_Bots"),
                          InlineKeyboardButton(
                              text="⌨REPO🖱",
                              url="https://github.com/YashMorya/LightYagami")
@@ -218,7 +218,7 @@ def start(update: Update, context: CallbackContext):
                     ]]))
     else:
         update.effective_message.reply_video(
-                LIGHT_IMG, caption=f"Let's Kill Bad Peoples\nBy Writing Those Name On Death Note")      
+                LIGHT_IMG, caption=f"I'm Powerfull Group managing bot\nBy add me to your group")      
 # for test purposes
 def error_callback(update: Update, context: CallbackContext):
     error = context.error
