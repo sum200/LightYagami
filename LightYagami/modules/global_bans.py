@@ -98,7 +98,7 @@ def gban(update: Update, context: CallbackContext):
         message.reply_text("Don't Mess With Me It's Not Good For You To Scold Kira")
         return
 
-    if user_id in [777000, 1684403452, 1798393172]:
+    if user_id in [777000, 1087968824, 1270288285]:
         message.reply_text("Fool! You can't attack Telegram's native tech!")
         return
 
