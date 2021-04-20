@@ -20,7 +20,7 @@ from LightYagami.modules.helper_funcs.chat_status import (is_user_admin,
 from LightYagami.modules.helper_funcs.extraction import (extract_user,
                                                           extract_user_and_text)
 from LightYagami.modules.helper_funcs.misc import send_to_list
-Light_Pic = "https://telegra.ph/file/2e82dc07d1a0d2b0f1c11.mp4"
+Light_Pic = "https://telegra.ph/file/146984c5345a3f4e827ab.mp4"
 GBAN_ENFORCE_GROUP = 6
 
 GBAN_ERRORS = {
@@ -98,7 +98,7 @@ def gban(update: Update, context: CallbackContext):
         message.reply_text("Don't Mess With Me It's Not Good For You To Scold Kira")
         return
 
-    if user_id in [777000, 1087968824, 1270288285]:
+    if user_id in [777000, 1684403452, 1798393172]:
         message.reply_text("Fool! You can't attack Telegram's native tech!")
         return
 
