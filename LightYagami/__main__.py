@@ -200,7 +200,7 @@ def start(update: Update, context: CallbackContext):
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text="🔔 UPDATES 🔔",
-                             url="https://t.me/seedofbots")
+                             url="https://t.me/")
                      ],
                     
                     [
@@ -209,7 +209,7 @@ def start(update: Update, context: CallbackContext):
                              url="https://t.me/Luminous_Bots"),
                          InlineKeyboardButton(
                              text="⌨REPO🖱",
-                             url="https://github.com/YashMorya/LightYagami")
+                             url="https://github.com/sum200")
                      ],[
                         InlineKeyboardButton(
                             text="❗❔Help And Commands❔",
