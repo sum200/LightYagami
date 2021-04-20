@@ -52,9 +52,9 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hey {},My name is Ξ L I Λ N Λ
-ɪ ᴀᴍ ᴀɴ ᴛʜᴇᴍᴇᴅ ꜰᴀꜱᴛ ᴀɴᴅ ꜱᴀꜰᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
-ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ
-ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ ʙʏ ᴡʀɪᴛɪɴɢ /help.
+I am an anime themed fast and safe group managing bot.
+Add me in your group.
+You can see the list of available commands by typing /help.
 """
 
 HELP_STRINGS = """
