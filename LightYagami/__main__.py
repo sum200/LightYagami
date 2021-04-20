@@ -54,7 +54,7 @@ PM_START_TEXT = """
 Hey {},My name is Ξ L I Λ N Λ
 ɪ ᴀᴍ ᴀɴ ᴛʜᴇᴍᴇᴅ ꜰᴀꜱᴛ ᴀɴᴅ ꜱᴀꜰᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ
-Here You Can See My commands By Writing /help.
+ᴴᵉʳᵉ ʸᵒᵘ ᶜᵃⁿ ˢᵉᵉ ᴹʸ ᶜᵒᵐᵐᵃⁿᵈˢ ᵇʸ ʷʳⁱᵗⁱⁿᵍ /help.
 """
 
 HELP_STRINGS = """
