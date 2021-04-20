@@ -52,8 +52,8 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hey {},My name is Ξ L I Λ N Λ
-I am an Anime themed fast and safe group management bot.
-Add me in your group.
+ɪ ᴀᴍ ᴀɴ ᴛʜᴇᴍᴇᴅ ꜰᴀꜱᴛ ᴀɴᴅ ꜱᴀꜰᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
+ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ
 Here You Can See My commands By Writing /help.
 """
 
