@@ -194,7 +194,22 @@ def start(update: Update, context: CallbackContext):
                             text="🚀Add Ξ L I Λ N Λ to your group🏓",
                             url="t.me/{}?startgroup=true".format(context.bot.username))
                     ],
-                      
+                       [
+                         InlineKeyboardButton(
+                             text="📢 SUPPORT GROUP ",
+                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                         InlineKeyboardButton(
+                             text="🔔 UPDATES 🔔",
+                             url="https://t.me/")
+                     ],
+                    
+                    [
+                         InlineKeyboardButton(
+                             text="🍁MADE BY🍁",
+                             url="https://t.me/"),
+                         InlineKeyboardButton(
+                             text="⌨REPO🖱",
+                             url="https://github.com/Sum200/LightYagami")
                      ],[
                         InlineKeyboardButton(
                             text="❗❔Help And Commands❔",
