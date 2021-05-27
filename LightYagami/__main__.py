@@ -197,19 +197,19 @@ def start(update: Update, context: CallbackContext):
                        [
                          InlineKeyboardButton(
                              text="📢 SUPPORT GROUP ",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url=f"https://t.me/shapphire"),
                          InlineKeyboardButton(
                              text="🔔 UPDATES 🔔",
-                             url="https://t.me/")
+                             url="https://t.me/Luminous_Robot")
                      ],
                     
                     [
                          InlineKeyboardButton(
-                             text="🍁MADE BY🍁",
-                             url="https://t.me/"),
+                             text="🧾 Getting Started Guide",
+                             url="https://t.me/Luminous_Robot"),
                          InlineKeyboardButton(
                              text="⌨REPO🖱",
-                             url="https://github.com/Sum200/LightYagami")
+                             url="https://t.me/Luminous_Robot")
                      ],[
                         InlineKeyboardButton(
                             text="❗❔Help And Commands❔",
