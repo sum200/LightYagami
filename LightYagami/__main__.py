@@ -197,7 +197,7 @@ def start(update: Update, context: CallbackContext):
                        [
                          InlineKeyboardButton(
                              text="📢 SUPPORT GROUP ",
-                             url=f"https://t.me/shapphire"),
+                             url=f"https://t.me/shapphiree"),
                          InlineKeyboardButton(
                              text="🔔 UPDATES 🔔",
                              url="https://t.me/Luminous_Robot")
