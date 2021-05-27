@@ -206,7 +206,7 @@ def start(update: Update, context: CallbackContext):
                     [
                          InlineKeyboardButton(
                              text="🧾 Getting Started Guide",
-                             url="https://t.me/Luminous_Robot"),
+                             url="https://t.me/Luminous_Robot/28"),
                          InlineKeyboardButton(
                              text="⌨REPO🖱",
                              url="https://t.me/Luminous_Robot")
